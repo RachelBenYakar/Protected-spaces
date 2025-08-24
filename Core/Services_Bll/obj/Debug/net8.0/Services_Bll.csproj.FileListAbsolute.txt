@@ -1,0 +1,30 @@
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.deps.json
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\bin\Debug\net8.0\Core.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\bin\Debug\net8.0\Core.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.AssemblyInfo.cs
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.CopyComplete
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\refint\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\Core\Services_Bll\obj\Debug\net8.0\ref\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.AssemblyInfo.cs
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.deps.json
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\bin\Debug\net8.0\Services_Bll.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\bin\Debug\net8.0\Core.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\bin\Debug\net8.0\Core.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.csproj.CopyComplete
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\refint\Services_Bll.dll
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\Services_Bll.pdb
+C:\Users\1\Desktop\רחלי\לימודים\הנדסאים\שנה ב\C#\תרגיל סיכום\Core\Services_Bll\obj\Debug\net8.0\ref\Services_Bll.dll

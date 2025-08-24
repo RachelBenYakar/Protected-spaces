@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3g86RQ9GJ/cf/KcuNRnZZYwPN8xSe+04jKwHYMpj16cDcg68wRZvMDLAv9/8PRYgwzLd7QZLF6cLIfclB8g6GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\רחלי\\לימודים\\הנדסאים\\שנה ב\\C#\\Protected-spaces\\Core\\Services_Bll\\Services_Bll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
